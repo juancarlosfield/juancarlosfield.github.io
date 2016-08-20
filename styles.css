@@ -1,3 +1,37 @@
 p {
   color:blue;
+  font-size: 16px;
+  line-height: 1.5em;
+  font-family: Georgia, "New Times Roman", serif;
+}
+
+.backgroundcheck {
+font-size: 30px;
+}
+
+.BBB img {
+/*font-size: 30px;*/
+width: 100px;
+height:100px;
+margin-left: 90px;
+}
+.paypal img{
+/*font-size: 30px;*/
+width: 100px;
+height:100px;
+margin-left: 90px;
+}
+
+#legal {
+background-color: grey
+}
+
+#contact {
+font: bold 2.6em Georgia;
+color: red;
+background-color: CCC;
+}
+
+#logo {
+  background-color: 839CA5;
 }
